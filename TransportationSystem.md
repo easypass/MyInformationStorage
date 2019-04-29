@@ -1,5 +1,0 @@
-# Transportation System
-
-~~~mermaid
-Operation
-~~~
